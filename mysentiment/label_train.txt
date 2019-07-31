@@ -1,0 +1,7 @@
+/data/sata/share_sata/xyq/data/NLP/sentiment/train/1_0.png 0
+/data/sata/share_sata/xyq/data/NLP/sentiment/train/2_0.png 0
+/data/sata/share_sata/xyq/data/NLP/sentiment/train/3_0.png 0
+/data/sata/share_sata/xyq/data/NLP/sentiment/train/4_0.png 0
+/data/sata/share_sata/xyq/data/NLP/sentiment/train/1_0.png 0
+/data/sata/share_sata/xyq/data/NLP/sentiment/train/2_0.png 0
+/data/sata/share_sata/xyq/data/NLP/sentiment/train/3_0.png 0
